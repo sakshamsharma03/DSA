@@ -1,1 +1,8 @@
-.git
+
+# Ignore compiled Java class files
+*.class
+
+# Ignore build directories (like those created by IntelliJ or Eclipse)
+/out/
+/bin/
+/target/
