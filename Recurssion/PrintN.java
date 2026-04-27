@@ -14,6 +14,6 @@ class PrintN{
     public static void main(String[] args)
     {
         func(10);
-        func1(5);
+        func1(3);
     }
 }
